@@ -61,3 +61,6 @@ multiplayer, social-deduction, party-game, physics, 3d, low-poly, funny, co-op, 
 
 ## Sürüm notları — v0.1.0
 - İlk yayın.
+
+## Sürüm notları — v0.1.1
+- Gökyüzü düzeltildi: ufkun altı artık gri değil, adalar gökyüzünde süzülüyor.

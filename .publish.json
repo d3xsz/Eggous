@@ -7,7 +7,7 @@
     "target": "d3xs/eggous",
     "channel": "windows",
     "buildDir": "Builds/Windows",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "ignore": ["*_BurstDebugInformation_DoNotShip", "*_BackUpThisFolder_ButDontShipItWithYourGame"]
   }
 }
