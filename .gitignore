@@ -1,0 +1,27 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb.meta
+*.apk
+*.aab
+crashlytics-build.properties
+
+# Asset Store paketleri (lisans geregi acik repoya konmaz; projeyi acmak icin paketleri ayrica import edin)
+/Assets/TooMooseGames/
+/Assets/TooMooseGames.meta
+/Assets/Low Poly Bird Nests/
+/Assets/Low Poly Bird Nests.meta

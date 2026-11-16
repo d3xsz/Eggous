@@ -1,0 +1,13 @@
+{
+  "github": {
+    "remote": "https://github.com/d3xsz/Eggous.git",
+    "branch": "main"
+  },
+  "itch": {
+    "target": "d3xs/eggous",
+    "channel": "windows",
+    "buildDir": "Builds/Windows",
+    "version": "0.1.0",
+    "ignore": ["*_BurstDebugInformation_DoNotShip", "*_BackUpThisFolder_ButDontShipItWithYourGame"]
+  }
+}
